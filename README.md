@@ -13,6 +13,8 @@ Open: 22046.63
 High: 22031.79
 Low: 22029.46
 Close: 22355.60
+
+
 Percent off open: 1.69
 Percent off high: 2.17
 Percent off low: 1.64
